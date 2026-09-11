@@ -1,0 +1,6 @@
+{
+  "name": "Word Search",
+  "description": "A casual brain-training word search puzzle game with 10 themed levels, swipe selection, hints, and colorful highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
